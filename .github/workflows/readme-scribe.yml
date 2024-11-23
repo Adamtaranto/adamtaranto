@@ -15,6 +15,9 @@ jobs:
 
       - uses: muesli/readme-scribe@master
         env:
+          # Required: GitHub Token with write access to the repository
+          # Create a Personal Access Token with expiry < 366 days
+          # with the `repo` scope and add it as a secret to your repository.
           GITHUB_TOKEN: ${{ secrets.HOMEPAGE_ACTION_TOKEN }}
         with:
           template: "templates/github-profile.tpl"
@@ -22,6 +25,9 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
+          # Go to the repository's Settings > Actions > General.
+          # Scroll to the Workflow permissions section.
+          # Ensure Read and write permissions is selected.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
