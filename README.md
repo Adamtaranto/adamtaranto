@@ -5,8 +5,8 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (today)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (4 days ago)
+- [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (1 day ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (5 days ago)
 - [Adamtaranto/learn-hatch](https://github.com/Adamtaranto/learn-hatch) - Learning how to do python packaging with Hatch. (1 week ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
 - [sanger-pathogens/pymummer](https://github.com/sanger-pathogens/pymummer) - Python3 module for running MUMmer and reading the output (1 week ago)
