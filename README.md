@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (today)
 - [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (1 week ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons. (1 week ago)
 - [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (2 weeks ago)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
