@@ -9,7 +9,7 @@ improve their computer science and data science skills.
 - [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (3 weeks ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (3 weeks ago)
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons. (3 weeks ago)
-- [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (3 weeks ago)
+- [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
