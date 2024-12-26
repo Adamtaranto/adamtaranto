@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (today)
 - [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (today)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 day ago)
-- [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (3 weeks ago)
-- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons. (3 weeks ago)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (today)
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (today)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (2 days ago)
+- [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
