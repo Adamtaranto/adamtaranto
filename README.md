@@ -17,7 +17,7 @@ improve their computer science and data science skills.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([0.1.0](https://github.com/Adamtaranto/teloclip/releases/tag/0.1.0), 1 month ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/blast-besties](https://github.com/Adamtaranto/blast-besties) ([1.2.0](https://github.com/Adamtaranto/blast-besties/releases/tag/1.2.0), 1 month ago) - Rapid discovery of reciprocal best blast pairs.
 - [Adamtaranto/TE-insertion-scanner](https://github.com/Adamtaranto/TE-insertion-scanner) ([0.2.1](https://github.com/Adamtaranto/TE-insertion-scanner/releases/tag/0.2.1), 1 month ago) - Scan whole genome alignments for signatures of transposon insertion.
-- [KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot) ([v0.4.0](https://github.com/KamilSJaron/smudgeplot/releases/tag/v0.4.0), 1 month ago) - Inference of ploidy and heterozygosity structure using whole genome sequencing data
+- [KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot) ([v0.4.0](https://github.com/KamilSJaron/smudgeplot/releases/tag/v0.4.0), 2 months ago) - Inference of ploidy and heterozygosity structure using whole genome sequencing data
 
 <table>
   <tr style="border: none">
