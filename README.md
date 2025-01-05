@@ -6,7 +6,7 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (today)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 day ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (2 days ago)
 - [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (1 week ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons. (1 month ago)
