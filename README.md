@@ -5,8 +5,8 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (1 day ago)
-- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (6 days ago)
+- [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (2 days ago)
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (1 week ago)
 - [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 week ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (2 weeks ago)
 - [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (2 weeks ago)
@@ -14,7 +14,7 @@ improve their computer science and data science skills.
 #### 🔭 Latest releases I've contributed to
 
 - [Adamtaranto/learn-hatch](https://github.com/Adamtaranto/learn-hatch) ([0.1.0](https://github.com/Adamtaranto/learn-hatch/releases/tag/0.1.0), 1 month ago) - Learning how to do python packaging with Hatch.
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([0.1.0](https://github.com/Adamtaranto/teloclip/releases/tag/0.1.0), 1 month ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([0.1.0](https://github.com/Adamtaranto/teloclip/releases/tag/0.1.0), 2 months ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/blast-besties](https://github.com/Adamtaranto/blast-besties) ([1.2.0](https://github.com/Adamtaranto/blast-besties/releases/tag/1.2.0), 2 months ago) - Rapid discovery of reciprocal best blast pairs.
 - [Adamtaranto/TE-insertion-scanner](https://github.com/Adamtaranto/TE-insertion-scanner) ([0.2.1](https://github.com/Adamtaranto/TE-insertion-scanner/releases/tag/0.2.1), 2 months ago) - Scan whole genome alignments for signatures of transposon insertion.
 - [KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot) ([v0.4.0](https://github.com/KamilSJaron/smudgeplot/releases/tag/v0.4.0), 2 months ago) - Inference of ploidy and heterozygosity structure using whole genome sequencing data
