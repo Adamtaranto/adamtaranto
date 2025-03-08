@@ -5,10 +5,10 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (3 days ago)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (3 days ago)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (3 days ago)
-- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (3 weeks ago)
+- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (4 days ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (4 days ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (4 days ago)
+- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (4 weeks ago)
 - [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
