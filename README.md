@@ -5,7 +5,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (2 days ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (3 days ago)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (1 week ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 week ago)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (1 month ago)
@@ -13,7 +13,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/learn-hatch](https://github.com/Adamtaranto/learn-hatch) ([0.1.0](https://github.com/Adamtaranto/learn-hatch/releases/tag/0.1.0), 3 months ago) - Learning how to do python packaging with Hatch.
+- [Adamtaranto/learn-hatch](https://github.com/Adamtaranto/learn-hatch) ([0.1.0](https://github.com/Adamtaranto/learn-hatch/releases/tag/0.1.0), 4 months ago) - Learning how to do python packaging with Hatch.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([0.1.0](https://github.com/Adamtaranto/teloclip/releases/tag/0.1.0), 4 months ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/blast-besties](https://github.com/Adamtaranto/blast-besties) ([1.2.0](https://github.com/Adamtaranto/blast-besties/releases/tag/1.2.0), 4 months ago) - Rapid discovery of reciprocal best blast pairs.
 - [Adamtaranto/TE-insertion-scanner](https://github.com/Adamtaranto/TE-insertion-scanner) ([0.2.1](https://github.com/Adamtaranto/TE-insertion-scanner/releases/tag/0.2.1), 4 months ago) - Scan whole genome alignments for signatures of transposon insertion.
