@@ -13,7 +13,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.2.0](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.2.0), today) - Predict progenitor sequence of fungal repeat families by correcting for RIP-like mutations and cytosine deamination events. Mask RIP or deamination events from alignments.
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.2.0](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.2.0), 1 day ago) - Predict progenitor sequence of fungal repeat families by correcting for RIP-like mutations and cytosine deamination events. Mask RIP or deamination events from alignments.
 - [Adamtaranto/learn-hatch](https://github.com/Adamtaranto/learn-hatch) ([0.1.0](https://github.com/Adamtaranto/learn-hatch/releases/tag/0.1.0), 4 months ago) - Learning how to do python packaging with Hatch.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([0.1.0](https://github.com/Adamtaranto/teloclip/releases/tag/0.1.0), 4 months ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/blast-besties](https://github.com/Adamtaranto/blast-besties) ([1.2.0](https://github.com/Adamtaranto/blast-besties/releases/tag/1.2.0), 4 months ago) - Rapid discovery of reciprocal best blast pairs.
