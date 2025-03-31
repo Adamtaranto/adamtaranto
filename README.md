@@ -5,19 +5,19 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (5 days ago)
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Predict progenitor sequence of fungal repeat families by correcting for RIP-like mutations and cytosine deamination events. Mask RIP or deamination events from alignments. (1 week ago)
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
+- [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species. (today)
+- [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (today)
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (6 days ago)
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons. (1 week ago)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (2 weeks ago)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sanger-pathogens/Fastaq](https://github.com/sanger-pathogens/Fastaq) ([3.18.0](https://github.com/sanger-pathogens/Fastaq/releases/tag/3.18.0), 6 days ago) - Python3 scripts to manipulate FASTA and FASTQ files
-- [sanger-pathogens/pymummer](https://github.com/sanger-pathogens/pymummer) ([0.12.0](https://github.com/sanger-pathogens/pymummer/releases/tag/0.12.0), 6 days ago) - Python3 module for running MUMmer and reading the output
+- [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) ([v0.1.3](https://github.com/Adamtaranto/TE-splitter/releases/tag/v0.1.3), today) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
+- [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) ([v1.1.3](https://github.com/Adamtaranto/mimeo/releases/tag/v1.1.3), 1 day ago) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species.
+- [sanger-pathogens/Fastaq](https://github.com/sanger-pathogens/Fastaq) ([3.18.0](https://github.com/sanger-pathogens/Fastaq/releases/tag/3.18.0), 1 week ago) - Python3 scripts to manipulate FASTA and FASTQ files
+- [sanger-pathogens/pymummer](https://github.com/sanger-pathogens/pymummer) ([0.12.0](https://github.com/sanger-pathogens/pymummer/releases/tag/0.12.0), 1 week ago) - Python3 module for running MUMmer and reading the output
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.1.1](https://github.com/Adamtaranto/teloclip/releases/tag/v0.1.1), 1 week ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.3.0](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.3.0), 1 week ago) - Predict progenitor sequence of fungal repeat families by correcting for RIP-like mutations and cytosine deamination events. Mask RIP or deamination events from alignments.
-- [Adamtaranto/learn-hatch](https://github.com/Adamtaranto/learn-hatch) ([0.1.0](https://github.com/Adamtaranto/learn-hatch/releases/tag/0.1.0), 4 months ago) - Learning how to do python packaging with Hatch.
 
 <table>
   <tr style="border: none">
