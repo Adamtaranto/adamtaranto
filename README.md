@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (today)
 - [WEHI-Education/CarpentriesSlides](https://github.com/WEHI-Education/CarpentriesSlides) - Converts Carpentries workbench workshops to slides (today)
 - [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species. (1 day ago)
 - [Adamtaranto/TE-splitter](https://github.com/Adamtaranto/TE-splitter) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (1 day ago)
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (1 week ago)
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
