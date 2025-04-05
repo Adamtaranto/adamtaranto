@@ -13,8 +13,8 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.1.4](https://github.com/Adamtaranto/tSplit/releases/tag/v0.1.4), today) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.4.0](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.4.0), 1 day ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
-- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.1.3](https://github.com/Adamtaranto/tSplit/releases/tag/v0.1.3), 5 days ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
 - [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) ([v1.1.3](https://github.com/Adamtaranto/mimeo/releases/tag/v1.1.3), 6 days ago) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species.
 - [sanger-pathogens/Fastaq](https://github.com/sanger-pathogens/Fastaq) ([3.18.0](https://github.com/sanger-pathogens/Fastaq/releases/tag/3.18.0), 1 week ago) - Python3 scripts to manipulate FASTA and FASTQ files
 - [sanger-pathogens/pymummer](https://github.com/sanger-pathogens/pymummer) ([0.12.0](https://github.com/sanger-pathogens/pymummer/releases/tag/0.12.0), 1 week ago) - Python3 module for running MUMmer and reading the output
