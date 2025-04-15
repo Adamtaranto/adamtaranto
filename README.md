@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (today)
 - [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 day ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (4 days ago)
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons. (4 days ago)
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (4 days ago)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
