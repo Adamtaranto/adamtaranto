@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (3 days ago)
-- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (3 days ago)
-- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (3 days ago)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (4 days ago)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (6 days ago)
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (4 days ago)
+- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (4 days ago)
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (4 days ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (5 days ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
