@@ -13,7 +13,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.0](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.0), today) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
+- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.1](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.1), today) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) ([v1.2.1](https://github.com/Adamtaranto/mimeo/releases/tag/v1.2.1), 1 month ago) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species.
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.2.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.2.0), 1 month ago) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons.
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.1.4](https://github.com/Adamtaranto/tSplit/releases/tag/v0.1.4), 1 month ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
