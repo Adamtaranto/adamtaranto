@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (today)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 week ago)
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (2 weeks ago)
 - [conda-forge/colormap-feedstock](https://github.com/conda-forge/colormap-feedstock) - A conda-smithy repository for colormap. (2 weeks ago)
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (3 weeks ago)
-- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
