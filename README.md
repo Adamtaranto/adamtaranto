@@ -5,7 +5,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 week ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (2 weeks ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (3 weeks ago)
 - [conda-forge/colormap-feedstock](https://github.com/conda-forge/colormap-feedstock) - A conda-smithy repository for colormap. (4 weeks ago)
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (4 weeks ago)
