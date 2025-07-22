@@ -9,7 +9,7 @@ improve their computer science and data science skills.
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 month ago)
 - [conda-forge/colormap-feedstock](https://github.com/conda-forge/colormap-feedstock) - A conda-smithy repository for colormap. (1 month ago)
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (1 month ago)
-- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (1 month ago)
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
