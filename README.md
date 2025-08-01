@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [melbournebioinformatics/intro-to-git](https://github.com/melbournebioinformatics/intro-to-git) - Intro to Git and GitHub for researchers (today)
 - [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 month ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 month ago)
 - [conda-forge/colormap-feedstock](https://github.com/conda-forge/colormap-feedstock) - A conda-smithy repository for colormap. (2 months ago)
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (2 months ago)
-- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
