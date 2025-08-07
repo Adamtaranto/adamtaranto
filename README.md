@@ -5,10 +5,10 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [Adamtaranto/gitgood](https://github.com/Adamtaranto/gitgood) - Learning about git (today)
 - [melbournebioinformatics/intro-to-git](https://github.com/melbournebioinformatics/intro-to-git) - Intro to Git and GitHub for researchers (6 days ago)
 - [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 month ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (2 months ago)
-- [conda-forge/colormap-feedstock](https://github.com/conda-forge/colormap-feedstock) - A conda-smithy repository for colormap. (2 months ago)
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
