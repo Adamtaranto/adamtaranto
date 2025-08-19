@@ -13,7 +13,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.5.4](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.5.4), 5 days ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
+- [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.5.4](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.5.4), 6 days ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.1](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.1), 2 months ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) ([v1.2.1](https://github.com/Adamtaranto/mimeo/releases/tag/v1.2.1), 4 months ago) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species.
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.2.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.2.0), 4 months ago) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons.
