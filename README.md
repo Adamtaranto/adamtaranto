@@ -5,7 +5,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (5 days ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (6 days ago)
 - [Adamtaranto/gitgood](https://github.com/Adamtaranto/gitgood) - Learning about git (2 weeks ago)
 - [melbournebioinformatics/intro-to-git](https://github.com/melbournebioinformatics/intro-to-git) - Intro to Git and GitHub for researchers (3 weeks ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (2 months ago)
