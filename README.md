@@ -5,8 +5,8 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (today)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (6 days ago)
+- [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (1 day ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 week ago)
 - [Adamtaranto/gitgood](https://github.com/Adamtaranto/gitgood) - Learning about git (2 weeks ago)
 - [melbournebioinformatics/intro-to-git](https://github.com/melbournebioinformatics/intro-to-git) - Intro to Git and GitHub for researchers (3 weeks ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (2 months ago)
