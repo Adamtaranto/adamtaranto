@@ -13,11 +13,11 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.2.0](https://github.com/Adamtaranto/teloclip/releases/tag/v0.2.0), today) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.5.4](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.5.4), 2 months ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.1](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.1), 4 months ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) ([v1.2.1](https://github.com/Adamtaranto/mimeo/releases/tag/v1.2.1), 6 months ago) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species.
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.2.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.2.0), 6 months ago) - Map TIR-pHMM models to genomic sequences for annotation of MITES and complete DNA-Transposons.
-- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.1.4](https://github.com/Adamtaranto/tSplit/releases/tag/v0.1.4), 6 months ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
 
 <table>
   <tr style="border: none">
