@@ -6,8 +6,8 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (today)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (today)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (2 weeks ago)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 month ago)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (1 month ago)
 - [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (1 month ago)
 
