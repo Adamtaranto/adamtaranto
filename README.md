@@ -13,7 +13,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.3.2](https://github.com/Adamtaranto/teloclip/releases/tag/v0.3.2), today) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.3.2](https://github.com/Adamtaranto/teloclip/releases/tag/v0.3.2), 1 day ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.5.4](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.5.4), 2 months ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.1](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.1), 5 months ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) ([v1.2.1](https://github.com/Adamtaranto/mimeo/releases/tag/v1.2.1), 6 months ago) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species.
