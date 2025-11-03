@@ -13,8 +13,8 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.1](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.1), today) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [Adamtaranto/citation-sync-action](https://github.com/Adamtaranto/citation-sync-action) ([v1](https://github.com/Adamtaranto/citation-sync-action/releases/tag/v1), 1 day ago) - Synchronize CITATION.cff file release-date and version with latest Git tags.
-- [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.0](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.0), 6 days ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.3.2](https://github.com/Adamtaranto/teloclip/releases/tag/v0.3.2), 1 week ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.1](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.1), 5 months ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/mimeo](https://github.com/Adamtaranto/mimeo) ([v1.2.1](https://github.com/Adamtaranto/mimeo/releases/tag/v1.2.1), 6 months ago) - Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species.
