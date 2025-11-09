@@ -6,10 +6,10 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (today)
+- [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (today)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (2 days ago)
 - [Adamtaranto/citation-sync-action](https://github.com/Adamtaranto/citation-sync-action) - Synchronize CITATION.cff file release-date and version with latest Git tags. (2 days ago)
 - [dalofa/telomore](https://github.com/dalofa/telomore) - Gotta find them telomeres (3 days ago)
-- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
