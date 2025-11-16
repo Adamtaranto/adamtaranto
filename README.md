@@ -9,7 +9,7 @@ improve their computer science and data science skills.
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (6 days ago)
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (6 days ago)
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (1 week ago)
-- [Adamtaranto/citation-sync-action](https://github.com/Adamtaranto/citation-sync-action) - Synchronize CITATION.cff file release-date and version with latest Git tags. (1 week ago)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
