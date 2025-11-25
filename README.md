@@ -13,10 +13,10 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.2](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.2), today) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.2](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.2), 2 weeks ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.4.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.4.1), 2 weeks ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.3.4](https://github.com/Adamtaranto/teloclip/releases/tag/v0.3.4), 2 weeks ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
-- [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.1](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.1), 3 weeks ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [Adamtaranto/citation-sync-action](https://github.com/Adamtaranto/citation-sync-action) ([v1](https://github.com/Adamtaranto/citation-sync-action/releases/tag/v1), 3 weeks ago) - Synchronize CITATION.cff file release-date and version with latest Git tags.
 
 <table>
