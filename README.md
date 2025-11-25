@@ -5,8 +5,8 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (4 days ago)
-- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (5 days ago)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (5 days ago)
+- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (6 days ago)
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (2 weeks ago)
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (2 weeks ago)
 - [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (2 weeks ago)
