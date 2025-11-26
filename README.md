@@ -5,15 +5,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (5 days ago)
-- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (6 days ago)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (6 days ago)
+- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (1 week ago)
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (2 weeks ago)
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (2 weeks ago)
 - [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.2](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.2), today) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
+- [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.2](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.2), 1 day ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.2](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.2), 2 weeks ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.4.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.4.1), 2 weeks ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.3.4](https://github.com/Adamtaranto/teloclip/releases/tag/v0.3.4), 2 weeks ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
