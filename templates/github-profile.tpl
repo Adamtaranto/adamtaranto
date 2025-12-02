@@ -13,6 +13,8 @@ improve their computer science and data science skills.
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamtaranto&theme=transparent)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamtaranto&mode=weekly&theme=transparent)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamtaranto&theme=transparent)
+
