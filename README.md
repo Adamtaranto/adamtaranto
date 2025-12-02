@@ -19,6 +19,8 @@ improve their computer science and data science skills.
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.4.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.4.1), 3 weeks ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.3.4](https://github.com/Adamtaranto/teloclip/releases/tag/v0.3.4), 3 weeks ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamtaranto&theme=transparent)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamtaranto&mode=weekly&theme=transparent)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamtaranto&theme=transparent)
+
