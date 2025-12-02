@@ -6,10 +6,10 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (today)
+- [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (today)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (5 days ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
 - [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (1 week ago)
-- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -22,7 +22,7 @@ improve their computer science and data science skills.
 <table>
   <tr style="border: none">
     <td valign="top" style="border: none">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamtaranto&theme=transparent" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=adamtaranto&rank_icon=percentile&show_icons=true&theme=transparent" alt="GitHub Stats" />
     </td>
     <td valign="top" style="border: none">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=adamtaranto&mode=weekly&theme=transparent" alt="GitHub Streak" />
