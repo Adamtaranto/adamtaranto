@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (6 days ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (today)
 - [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (6 days ago)
+- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (6 days ago)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (1 week ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (2 weeks ago)
-- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
