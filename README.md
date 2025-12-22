@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (today)
 - [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (6 days ago)
 - [tseemann/mlst](https://github.com/tseemann/mlst) - :id: Scan contig files against PubMLST typing schemes (1 week ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (2 weeks ago)
 - [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (2 weeks ago)
-- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
