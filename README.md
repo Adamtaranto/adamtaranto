@@ -8,12 +8,12 @@ improve their computer science and data science skills.
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (2 weeks ago)
 - [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (3 weeks ago)
 - [tseemann/mlst](https://github.com/tseemann/mlst) - :id: Scan contig files against PubMLST typing schemes (4 weeks ago)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (4 weeks ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 month ago)
 - [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.32.2](https://github.com/tseemann/mlst/releases/tag/v2.32.2), 4 days ago) - :id: Scan contig files against PubMLST typing schemes
+- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.32.2](https://github.com/tseemann/mlst/releases/tag/v2.32.2), 5 days ago) - :id: Scan contig files against PubMLST typing schemes
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.1.5](https://github.com/Adamtaranto/tSplit/releases/tag/v0.1.5), 1 month ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
 - [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.2](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.2), 1 month ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.2](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.2), 1 month ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
