@@ -13,11 +13,11 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
+- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.1.0](https://github.com/flexidot-bio/flexidot/releases/tag/v2.1.0), today) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.2.0](https://github.com/Adamtaranto/tSplit/releases/tag/v0.2.0), 1 week ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.3.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.3.0), 2 weeks ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.32.2](https://github.com/tseemann/mlst/releases/tag/v2.32.2), 3 weeks ago) - :id: Scan contig files against PubMLST typing schemes
 - [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.2](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.2), 2 months ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
-- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.0.2](https://github.com/flexidot-bio/flexidot/releases/tag/v2.0.2), 2 months ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamtaranto&mode=weekly&theme=transparent)
