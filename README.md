@@ -5,10 +5,10 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (today)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (1 day ago)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (1 day ago)
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (1 day ago)
-- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (1 day ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
