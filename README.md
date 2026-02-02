@@ -20,7 +20,7 @@ improve their computer science and data science skills.
 - [qjiangzhao/TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) ([v1.6.2](https://github.com/qjiangzhao/TEtrimmer/releases/tag/v1.6.2), 2 months ago) - TEtrimmer: a novel tool to automate manual curation of transposable elements 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adamtaranto)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamtaranto&mode=weekly&theme=transparent)
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamtaranto&theme=transparent)
 
