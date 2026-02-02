@@ -1,7 +1,7 @@
 ## Adam Taranto
 
 I'm a research software engineer, genome biologist, and educator who helps researchers of all levels
-improve their computer science and data science skills.
+improve their bioinformatics and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
