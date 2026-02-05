@@ -6,10 +6,10 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [dalofa/telomore](https://github.com/dalofa/telomore) - Gotta find them telomeres (today)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (today)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (2 days ago)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (2 days ago)
 - [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (3 days ago)
-- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
