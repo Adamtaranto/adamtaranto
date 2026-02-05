@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (1 day ago)
-- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (1 day ago)
-- [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (2 days ago)
-- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (5 days ago)
-- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (6 days ago)
+- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (2 days ago)
+- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (2 days ago)
+- [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (3 days ago)
+- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (6 days ago)
+- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
