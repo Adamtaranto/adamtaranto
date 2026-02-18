@@ -5,17 +5,17 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 day ago)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (2 days ago)
-- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (2 days ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (2 days ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (3 days ago)
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (3 days ago)
 - [dalofa/telomore](https://github.com/dalofa/telomore) - Gotta find them telomeres (1 week ago)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [dalofa/telomore](https://github.com/dalofa/telomore) ([v0.4.1](https://github.com/dalofa/telomore/releases/tag/v0.4.1), 1 week ago) - Gotta find them telomeres
-- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.3.0](https://github.com/Adamtaranto/tSplit/releases/tag/v0.3.0), 2 weeks ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
-- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.1.0](https://github.com/flexidot-bio/flexidot/releases/tag/v2.1.0), 2 weeks ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
+- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.3.0](https://github.com/Adamtaranto/tSplit/releases/tag/v0.3.0), 3 weeks ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
+- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.1.0](https://github.com/flexidot-bio/flexidot/releases/tag/v2.1.0), 3 weeks ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.3.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.3.0), 1 month ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.32.2](https://github.com/tseemann/mlst/releases/tag/v2.32.2), 1 month ago) - :id: Scan contig files against PubMLST typing schemes
 
