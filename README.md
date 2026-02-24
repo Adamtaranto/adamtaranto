@@ -6,7 +6,7 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Rust &#43; PyO3 tool for making fast dot plot comparisons of DNA sequences using a Rust FM-Index (today)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (today)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 day ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 week ago)
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (1 week ago)
 - [dalofa/telomore](https://github.com/dalofa/telomore) - Gotta find them telomeres (2 weeks ago)
