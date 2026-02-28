@@ -5,9 +5,9 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust FM-Index (today)
-- [m-lutze/KADAR](https://github.com/m-lutze/KADAR) -  (1 day ago)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (4 days ago)
+- [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust FM-Index (1 day ago)
+- [m-lutze/KADAR](https://github.com/m-lutze/KADAR) -  (2 days ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (5 days ago)
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (1 week ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 week ago)
 
