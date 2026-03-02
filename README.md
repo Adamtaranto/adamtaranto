@@ -5,10 +5,10 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (today)
 - [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust FM-Index (3 days ago)
 - [m-lutze/KADAR](https://github.com/m-lutze/KADAR) -  (4 days ago)
 - [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 week ago)
-- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (2 weeks ago)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
