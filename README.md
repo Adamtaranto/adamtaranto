@@ -13,7 +13,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.33.0](https://github.com/tseemann/mlst/releases/tag/v2.33.0), 3 days ago) - :id: Scan contig files against PubMLST typing schemes
+- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.33.0](https://github.com/tseemann/mlst/releases/tag/v2.33.0), 4 days ago) - :id: Scan contig files against PubMLST typing schemes
 - [dalofa/telomore](https://github.com/dalofa/telomore) ([v0.4.1](https://github.com/dalofa/telomore/releases/tag/v0.4.1), 1 month ago) - Gotta find them telomeres
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.3.0](https://github.com/Adamtaranto/tSplit/releases/tag/v0.3.0), 1 month ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
 - [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) ([v2.1.0](https://github.com/flexidot-bio/flexidot/releases/tag/v2.1.0), 1 month ago) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
