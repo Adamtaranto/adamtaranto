@@ -5,15 +5,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (today)
-- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (today)
-- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (today)
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (today)
-- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (today)
+- [flexidot-bio/flexidot](https://github.com/flexidot-bio/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses (1 day ago)
+- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (1 day ago)
+- [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (1 day ago)
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (1 day ago)
+- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.4.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.4.0), 1 day ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
+- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.4.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.4.0), 2 days ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.33.0](https://github.com/tseemann/mlst/releases/tag/v2.33.0), 1 month ago) - :id: Scan contig files against PubMLST typing schemes
 - [dalofa/telomore](https://github.com/dalofa/telomore) ([v0.4.1](https://github.com/dalofa/telomore/releases/tag/v0.4.1), 2 months ago) - Gotta find them telomeres
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.3.0](https://github.com/Adamtaranto/tSplit/releases/tag/v0.3.0), 2 months ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
