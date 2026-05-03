@@ -5,9 +5,9 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (today)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (5 days ago)
-- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (5 days ago)
+- [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (1 day ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (6 days ago)
+- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (6 days ago)
 - [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (1 week ago)
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons. (1 week ago)
 
