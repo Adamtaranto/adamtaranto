@@ -6,8 +6,8 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (3 weeks ago)
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (3 weeks ago)
-- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (3 weeks ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (4 weeks ago)
+- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (4 weeks ago)
 - [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (1 month ago)
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (1 month ago)
 
