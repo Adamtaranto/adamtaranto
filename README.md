@@ -5,16 +5,16 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (today)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (6 days ago)
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (1 day ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 day ago)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (1 week ago)
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (1 week ago)
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.0](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.0), today) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
-- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 3 weeks ago) - :id: Scan contig files against PubMLST typing schemes
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.0](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.0), 1 day ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
+- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 4 weeks ago) - :id: Scan contig files against PubMLST typing schemes
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.4.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.4.0), 2 months ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [dalofa/telomore](https://github.com/dalofa/telomore) ([v0.4.1](https://github.com/dalofa/telomore/releases/tag/v0.4.1), 5 months ago) - A tool for extending linear bacterial (primarily actinomycete) replicons to capture the telomere
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.3.0](https://github.com/Adamtaranto/tSplit/releases/tag/v0.3.0), 5 months ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
