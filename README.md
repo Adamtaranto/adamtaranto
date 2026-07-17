@@ -13,8 +13,8 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.0](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.0), 2 days ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
-- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 4 weeks ago) - :id: Scan contig files against PubMLST typing schemes
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.0](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.0), 3 days ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
+- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 1 month ago) - :id: Scan contig files against PubMLST typing schemes
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.4.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.4.0), 2 months ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [dalofa/telomore](https://github.com/dalofa/telomore) ([v0.4.1](https://github.com/dalofa/telomore/releases/tag/v0.4.1), 5 months ago) - A tool for extending linear bacterial (primarily actinomycete) replicons to capture the telomere
 - [Adamtaranto/tSplit](https://github.com/Adamtaranto/tSplit) ([v0.3.0](https://github.com/Adamtaranto/tSplit/releases/tag/v0.3.0), 5 months ago) - Extract terminal repeats from retrotransposons (LTRs) or DNA transposons (TIRs). Compose synthetic MITES from complete DNA transposons.
