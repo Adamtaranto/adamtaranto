@@ -5,15 +5,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (today)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (2 days ago)
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (2 days ago)
+- [oxli-bio/oxli](https://github.com/oxli-bio/oxli) - k-mers and the like (1 day ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (3 days ago)
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (3 days ago)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (2 weeks ago)
 - [tanghaibao/jcvi](https://github.com/tanghaibao/jcvi) - Python library to facilitate genome assembly, annotation, and comparative genomics (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.1), 2 days ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.1), 3 days ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
 - [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 1 month ago) - :id: Scan contig files against PubMLST typing schemes
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.4.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.4.0), 3 months ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [dalofa/telomore](https://github.com/dalofa/telomore) ([v0.4.1](https://github.com/dalofa/telomore/releases/tag/v0.4.1), 5 months ago) - A tool for extending linear bacterial (primarily actinomycete) replicons to capture the telomere
