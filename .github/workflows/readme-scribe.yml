@@ -18,7 +18,7 @@ jobs:
           # Required: GitHub Token with write access to the repository
           # Create a Personal Access Token with expiry < 366 days
           # with the `repo` scope and add it as a secret to your repository.
-          GITHUB_TOKEN: ${{ secrets.HOMEPAGE_ACTION_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLASSIC_HOMEPAGE_TOKEN }}
         with:
           template: "templates/github-profile.tpl"
           writeTo: "README.md"
