@@ -6,10 +6,10 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (today)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (today)
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (2 days ago)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (3 days ago)
 - [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust FM-Index (4 days ago)
-- [Adamtaranto/adamtaranto](https://github.com/Adamtaranto/adamtaranto) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
