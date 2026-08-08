@@ -5,15 +5,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (today)
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (2 days ago)
-- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (3 days ago)
-- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (5 days ago)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (5 days ago)
+- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (1 day ago)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (3 days ago)
+- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (4 days ago)
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (6 days ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.5.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.5.0), 6 days ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
+- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.5.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.5.0), 1 week ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.4.0](https://github.com/Adamtaranto/teloclip/releases/tag/v0.4.0), 1 week ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.1), 2 weeks ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
 - [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 1 month ago) - :id: Scan contig files against PubMLST typing schemes
