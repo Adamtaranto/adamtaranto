@@ -5,7 +5,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (5 days ago)
+- [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features. (6 days ago)
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (1 week ago)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (1 week ago)
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (1 week ago)
