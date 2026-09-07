@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (2 days ago)
-- [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (5 days ago)
-- [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (5 days ago)
-- [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (1 week ago)
-- [Adamtaranto/gitgood_wehi](https://github.com/Adamtaranto/gitgood_wehi) - Learning about git (2 weeks ago)
+- [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (today)
+- [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (today)
+- [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (today)
+- [Adamtaranto/Corset-tools](https://github.com/Adamtaranto/Corset-tools) - Companion scripts for annotation of Corset generated transcript clusters. (today)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
