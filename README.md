@@ -5,11 +5,11 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (today)
-- [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (today)
-- [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (today)
-- [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (today)
-- [Adamtaranto/Corset-tools](https://github.com/Adamtaranto/Corset-tools) - Companion scripts for annotation of Corset generated transcript clusters. (today)
+- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (1 day ago)
+- [Adamtaranto/rusty-dot](https://github.com/Adamtaranto/rusty-dot) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (1 day ago)
+- [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (1 day ago)
+- [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (1 day ago)
+- [Adamtaranto/Corset-tools](https://github.com/Adamtaranto/Corset-tools) - Companion scripts for annotation of Corset generated transcript clusters. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
