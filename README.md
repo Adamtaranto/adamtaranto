@@ -13,7 +13,7 @@ improve their computer science and data science skills.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) ([v0.2.0](https://github.com/Adamtaranto/dot-explorer/releases/tag/v0.2.0), today) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust
+- [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) ([v0.2.1](https://github.com/Adamtaranto/dot-explorer/releases/tag/v0.2.1), today) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.5.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.5.0), 1 month ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.4.0](https://github.com/Adamtaranto/teloclip/releases/tag/v0.4.0), 1 month ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.1), 1 month ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
