@@ -6,10 +6,10 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (today)
-- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (1 day ago)
-- [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (1 day ago)
-- [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (1 day ago)
-- [Adamtaranto/Corset-tools](https://github.com/Adamtaranto/Corset-tools) - Companion scripts for annotation of Corset generated transcript clusters. (1 day ago)
+- [Adamtaranto/Corset-tools](https://github.com/Adamtaranto/Corset-tools) - Companion scripts for annotation of Corset generated transcript clusters. (today)
+- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (2 days ago)
+- [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (2 days ago)
+- [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
