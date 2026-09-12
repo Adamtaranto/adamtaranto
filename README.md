@@ -5,15 +5,15 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (today)
-- [dalofa/telomore](https://github.com/dalofa/telomore) - A tool for extending linear bacterial (primarily actinomycete) replicons to capture the telomere (today)
-- [Adamtaranto/Corset-tools](https://github.com/Adamtaranto/Corset-tools) - Companion scripts for annotation of Corset generated transcript clusters. (2 days ago)
-- [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (2 days ago)
-- [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (4 days ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 day ago)
+- [dalofa/telomore](https://github.com/dalofa/telomore) - A tool for extending linear bacterial (primarily actinomycete) replicons to capture the telomere (1 day ago)
+- [Adamtaranto/Corset-tools](https://github.com/Adamtaranto/Corset-tools) - Companion scripts for annotation of Corset generated transcript clusters. (3 days ago)
+- [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (3 days ago)
+- [Adamtaranto/TRF2GFF](https://github.com/Adamtaranto/TRF2GFF) - Convert Tandem Repeat Finder dat file output into gff3 format (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) ([v0.2.1](https://github.com/Adamtaranto/dot-explorer/releases/tag/v0.2.1), 2 days ago) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust
+- [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) ([v0.2.1](https://github.com/Adamtaranto/dot-explorer/releases/tag/v0.2.1), 3 days ago) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.5.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.5.0), 1 month ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.4.0](https://github.com/Adamtaranto/teloclip/releases/tag/v0.4.0), 1 month ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.1), 1 month ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
