@@ -6,10 +6,10 @@ improve their computer science and data science skills.
 #### 👩‍💻 What I'm currently working on
 
 - [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (today)
-- [dalofa/telomore](https://github.com/dalofa/telomore) - A tool for extending linear bacterial (primarily actinomycete) replicons to capture the telomere (3 days ago)
+- [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (today)
+- [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (today)
 - [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (3 days ago)
-- [Adamtaranto/Corset-tools](https://github.com/Adamtaranto/Corset-tools) - Companion scripts for annotation of Corset generated transcript clusters. (5 days ago)
-- [Adamtaranto/maxiprot](https://github.com/Adamtaranto/maxiprot) - Select best alignment from overlapping miniprot alignments (1 week ago)
+- [dalofa/telomore](https://github.com/dalofa/telomore) - A tool for extending linear bacterial (primarily actinomycete) replicons to capture the telomere (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
