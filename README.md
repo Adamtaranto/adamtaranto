@@ -8,8 +8,8 @@ improve their computer science and data science skills.
 - [Adamtaranto/dot-explorer](https://github.com/Adamtaranto/dot-explorer) - A Python library for making fast dot-plot comparisons of DNA sequences powered by Rust (1 week ago)
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (1 week ago)
 - [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (1 week ago)
-- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 week ago)
 - [dalofa/telomore](https://github.com/dalofa/telomore) - A tool for extending linear bacterial (primarily actinomycete) replicons to capture the telomere (1 week ago)
+- [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
