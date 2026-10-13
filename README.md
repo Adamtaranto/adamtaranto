@@ -5,7 +5,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (2 days ago)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (3 days ago)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (1 week ago)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (1 week ago)
 - [Adamtaranto/pypopart](https://github.com/Adamtaranto/pypopart) - Python reimplementation of PopART tool for creating haplotype networks (4 weeks ago)
