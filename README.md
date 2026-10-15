@@ -5,7 +5,7 @@ improve their computer science and data science skills.
 
 #### 👩‍💻 What I'm currently working on
 
-- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (4 days ago)
+- [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments. (5 days ago)
 - [WEHI-Education/Workshop-IntroToHPC-Slurm](https://github.com/WEHI-Education/Workshop-IntroToHPC-Slurm) - RCP Training introducing HPC concepts and SLURM (1 week ago)
 - [WEHI-Education/Workshop-intermediate-slurm](https://github.com/WEHI-Education/Workshop-intermediate-slurm) - Intermedate Slurm Workshop source code using the Software Carpentry Workbench style. (1 week ago)
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments. (1 month ago)
@@ -17,7 +17,7 @@ improve their computer science and data science skills.
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.5.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.5.0), 2 months ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.4.0](https://github.com/Adamtaranto/teloclip/releases/tag/v0.4.0), 2 months ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.1), 2 months ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
-- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 3 months ago) - :id: Scan contig files against PubMLST typing schemes
+- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 4 months ago) - :id: Scan contig files against PubMLST typing schemes
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamtaranto&mode=weekly&theme=transparent)
