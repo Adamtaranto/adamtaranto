@@ -17,7 +17,7 @@ improve their computer science and data science skills.
 - [Adamtaranto/TIRmite](https://github.com/Adamtaranto/TIRmite) ([v1.5.0](https://github.com/Adamtaranto/TIRmite/releases/tag/v1.5.0), 3 months ago) - Annotation of cryptic transposon variants using Hidden Markov Models to detect conserved terminal features.
 - [Adamtaranto/teloclip](https://github.com/Adamtaranto/teloclip) ([v0.4.0](https://github.com/Adamtaranto/teloclip/releases/tag/v0.4.0), 3 months ago) -  A tool for the recovery of unassembled telomeres from soft-clipped read alignments.
 - [Adamtaranto/deRIP2](https://github.com/Adamtaranto/deRIP2) ([v0.5.1](https://github.com/Adamtaranto/deRIP2/releases/tag/v0.5.1), 3 months ago) - Reconstruct ancestral state sequences of fungal repeat families by correcting for RIP-like mutations. Mask RIP or deamination events from alignments.
-- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 4 months ago) - :id: Scan contig files against PubMLST typing schemes
+- [tseemann/mlst](https://github.com/tseemann/mlst) ([v2.35.0](https://github.com/tseemann/mlst/releases/tag/v2.35.0), 5 months ago) - :id: Scan contig files against PubMLST typing schemes
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamtaranto&mode=weekly&theme=transparent)
